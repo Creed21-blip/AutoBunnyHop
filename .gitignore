@@ -1,0 +1,27 @@
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Build outputs
+/bin/
+/obj/
+/build/
+/dist/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
